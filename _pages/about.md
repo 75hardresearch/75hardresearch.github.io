@@ -2,48 +2,38 @@
 layout: about
 permalink: /
 title: <b>75</b> <b>H</b>ard <b>R</b>esearch
-description: Focus • Grind • Solitude
+description: Focus  •  Grind  •  Solitude
 logo: 75hardresearch-logo.png
 news: true
 ---
 
-This course brings together many disciplines of Artificial Intelligence (including computer vision, robot control, reinforcement learning, language understanding) to show how to develop intelligent agents that can learn to sense the world and learn to act by imitating others, maximizing sparse rewards, and/or satisfying their curiosity.
+This challenge is a drivative of the original 75 Hard Challenge for doing research work. In this blog I focus on Artificial Intelligence but one can choose to apply the rules on their choice of area like Medicine, Maths Spirituality or even fiction!
 
-**Course Goals:**
+**Vision**
 
-Upon completion of the course students should be able to:
-- Implement and experiment with existing state-of-the-art methods for learning behavioral policies supervised by reinforcement, demonstrations and/or intrinsic curiosity.
-- Evaluate the sample complexity, generalization and generality of these algorithms.
-- Understand research papers in the field of robotic learning.
-- Try out ideas/extensions on existing methods.
+To learn to grind through a difficult task while improving on research skills.
 
-**Prerequisite Knowledge:**
+**Goals:**
 
-Students should have a solid understanding of the following areas
-- Algorithms: e.g., What problem does Dijkstra's algorithm solve?
-- Probability: e.g., What is Bayes rule? How do you normalize a distribution?
-- Computer vision: convolutional networks, object detection architectures, LSTMs, attention models
-- Deep Learning: familiarity  with TensorFlow and/or Pytorch.
-- Matrix Calculus: e.g., What are derivatives of matrix-matrix and matrix-vector products? What is the multivariate chain rule?
-- Programming: e.g., What are classes and inheritance? How do you structure read data from files? How do you plot figures to visualize results?
-- Numerical programming: e.g., How would you perform an elementwise product instead of an inner product? How do you invert a matrix?
+Upon completion of the course you should be able to:
+- Sit down and study <b>at will</b>.
+- Understand research papers at a <b>deeper level</b>.
+- <b>Feel confident</b> in your ability to pick up anything and finish it.
+- <b>Not sway away</b> at the whims of your mind or any social media AI algorithm.
 
-**Prerequisites:**
-- Prerequisites: 10601 introduction to machine learning
-- Minimum Grades: B in 10601
-- Corequisites: None
-- Anti-requisites: None
-- Anti-req Prohibits: None
+
+**Rules:**
+There are only three rules. Everyday one has to do,
+- <b>3 hours self-study:</b> This is other than whatever existing commitments like university or job you have.
+- <b>15 minutes book reading:</b> Any non-technical book.
+- <b>5 + 5 minute meditation:</b> 5 minutes in the morning, 5 minutes in the evening.
+
+**Contact:** For any help and query, write to 75hardresearch@gmail.com.
+
 
 ***
+**NEWS**
 
-- **Lectures:** Monday, Wednesday 2:00 PM - 3:20 PM
-- **Recitations:** Friday 2:00 PM - 3:20 PM
-- **Lecture/Recitation Location:** [GHC 4401](https://www.google.com/maps/place/Gates+and+Hillman+Centers/@40.4436655,-79.9470514,17z/data=!3m1!4b1!4m6!3m5!1s0x8834f22177d9f8ef:0x719357c7895d25a8!8m2!3d40.4436655!4d-79.9444765!16s%2Fg%2F1tdlvy8r?entry=ttu){:target="\_blank"}
-<!-- - **Office Hours Location:** [Gates-Hillman Center 8228](https://goo.gl/maps/74vUj6uoaTTzYM937){:target="\_blank"} -->
-- **Discussion:** [Piazza](https://piazza.com){:target="\_blank"}
-- **HW submission:** [Gradescope](https://www.gradescope.com){:target="\_blank"}
-- **Contact:** For external enquiries, personal matters or in emergencies, you can email Joshmin at
-joshminr@andrew.cmu.edu.
+- Website is up!
 
 ***
