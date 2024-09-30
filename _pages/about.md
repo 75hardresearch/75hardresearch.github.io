@@ -7,7 +7,15 @@ logo: 75hardresearch-logo.png
 news: true
 ---
 
-This challenge is a drivative of the original 75 Hard Challenge for doing research work. In this blog I focus on Artificial Intelligence but one can choose to apply the rules on their choice of area like Medicine, Maths Spirituality or even fiction!
+<!-- This challenge is derived from the original **75 Hard Challenge but for doing research work** rather than physical activites.
+I focus on Artificial Intelligence but one can choose to apply the rules on their choice of area like Medicine, Maths, Spirituality or even fiction!
+This website is is a supportive role to my original Youtube Channel [Youtube-Channel](https://www.youtube.com/@75HardResearch). -->
+
+This challenge is a derivative of the original 75 Hard Challenge, but it focuses on research rather than physical activities. While my primary focus is on Artificial Intelligence, you can adapt the rules to any area of interest—be it Medicine, Mathematics, Spirituality, or even Fiction!
+
+This website serves as a supportive resource for my **[Youtube-Channel](https://www.youtube.com/@75HardResearch)**, from where I started this journey.
+
+**[Youtube-Channel](https://www.youtube.com/@75HardResearch)**
 
 ***
 **Goal:** 
