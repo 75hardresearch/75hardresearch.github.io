@@ -18,7 +18,7 @@ This website serves as a supportive resource for my **[Youtube-Channel](https://
 **[Youtube-Channel](https://www.youtube.com/@75HardResearch)**
 
 ***
-<strong>Goal:</strong>
+<b style="color:#2698BA;">Goal:</b>
 To learn to grind through a difficult task while improving on research skills.
 
 
