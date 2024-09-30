@@ -1,12 +1,12 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-author: 10-703 Staff
-name: 10-703 Deep RL
-title: Deep Reinforcement Learning
-email: ta-deeprl@lists.andrew.cmu.edu
+author: 75 Hard Research
+name: 75 Hard Research
+title: 75 Hard Research
+email: 75hardresearch@gmail.com
 description: >
-  10-703 - Deep Reinforcement Learning and Control - Carnegie Mellon University - Fall 2023
+  Focused grind in solitude for learning AI research
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
@@ -16,16 +16,16 @@ baseurl:  # the subpath of your site, e.g. /blog/
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: cmudeeprl
+github_username: 75hardresearch
 google_analytics:
-youtube_channel:
+youtube_channel: https://www.youtube.com/@75HardResearch
 rss:  # notes rss
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: Course Notes
-blog_description: The notes written by students and edited by instructors
+blog_name: 75 Hard Research
+blog_description: Focused grind in solitude for learning AI research
 
 # Pagination
 paginate: 10

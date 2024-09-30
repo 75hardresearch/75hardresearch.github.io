@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <b>75</b> <b>H</b>ard <b>R</b>esearch
-description: 10-703 • Fall 2023 • Carnegie Mellon University
+description: Focus • Grind • Solitude
 logo: 75hardresearch-logo.png
 news: true
 ---
