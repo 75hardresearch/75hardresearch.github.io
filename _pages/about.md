@@ -1,9 +1,9 @@
 ---
 layout: about
 permalink: /
-title: <b>D</b>eep <b>R</b>einforcement <b>L</b>earning
+title: <b>75</b> <b>H</b>ard <b>R</b>esearch
 description: 10-703 • Fall 2023 • Carnegie Mellon University
-logo: cmu-logo.png
+logo: 75hardresearch-logo.png
 news: true
 ---
 
