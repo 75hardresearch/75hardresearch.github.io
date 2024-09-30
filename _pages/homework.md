@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /homework/
+permalink: https://www.youtube.com/@75HardResearch
 title: Homework Assignments
 ---
 
