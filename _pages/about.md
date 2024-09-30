@@ -22,13 +22,13 @@ This website serves as a supportive resource for my **[Youtube-Channel](https://
 To learn to grind through a difficult task while improving on research skills.
 
 
-**Rules:**
+<b style="color:#2698BA;">Rules:</b>
 There are only three rules. Everyday one has to do,
 - <b>3 hours self-study:</b> This is other than whatever existing commitments like university or job you have.
 - <b>15 minutes book reading:</b> Any non-technical book.
 - <b>5 + 5 minute meditation:</b> 5 minutes in the morning, 5 minutes in the evening.
 
-**Outcomes:**
+<b style="color:#2698BA;">Outcomes:</b>
 Upon completion of this challenge you should be able to:
 - Sit down and study <b>at will</b>.
 - Understand research papers at a <b>deeper level</b>.
@@ -36,12 +36,12 @@ Upon completion of this challenge you should be able to:
 - <b>Not sway away</b> at the whims of your mind or any social media AI algorithm.
 
 
-
-**Contact:** For any help and query, write to 75hardresearch@gmail.com.
+<b style="color:#2698BA;">Contact:</b>
+For any help and query, write to 75hardresearch@gmail.com.
 
 
 ***
-**NEWS**
+<b style="color:#2698BA;">NEWS</b>
 
 - Website is up!
 
